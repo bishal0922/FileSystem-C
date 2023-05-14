@@ -21,16 +21,16 @@ Remaining Commands:
 - retrieve
 
 ### Bishal
-~~createfs~~
-~~savefs~~
-~~openfs~~
-~~closefs~~
-~~insert~~
-~~list~~
-~~df~~
-~~quit~~
-~~encrypt~~
-~~decrypt~~
+- ~~createfs~~
+- ~~savefs~~
+- ~~openfs~~
+- ~~closefs~~
+- ~~insert~~
+- ~~list~~
+- ~~df~~
+- ~~quit~~
+- ~~encrypt~~
+- ~~decrypt~~
 
 ``` bash
 # Notes from Lets code video(s)
