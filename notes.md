@@ -8,8 +8,6 @@ Run: `make` then `./file`
 - Meet and discuss program Task Distribution
 
 ### Damber
-- ~~encrypt~~
-- ~~decrypt~~
 
 
 ### Diwas
@@ -31,6 +29,8 @@ Remaining Commands:
 ~~list~~
 ~~df~~
 ~~quit~~
+~~encrypt~~
+~~decrypt~~
 
 ``` bash
 # Notes from Lets code video(s)
